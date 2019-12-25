@@ -1,0 +1,2 @@
+# Pihole_block_list
+tailored_pihole_blocklist
